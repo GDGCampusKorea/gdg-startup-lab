@@ -4,7 +4,8 @@
 
 ---
 
-- 04월 26일(토)에 진행된 Build with AI: GDG StartUP Lab에서 사용된 Support 페르소나 모델 "잼미니" 코랩 노트북에 대한 Repo 파일입니다.
+- 04월 26일(토)에 진행된 Build with AI: GDG StartUP Lab에서 사용된 AI 페르소나 모델 MVP 검증 테스트 밑 데이터 분석 도우미
+페르소나 모델 "잼미니" 코랩 노트북에 대한 Repo 파일입니다.
 
 - 이벤트 링크: https://event-us.kr/gdgcampuskorea/event/100657
 - 잼미니 사용 가이드라인: https://bigbread-1129.notion.site/1d968dfea1ae8057b02fd85b94bbae35?pvs=4
