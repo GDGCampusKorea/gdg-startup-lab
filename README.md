@@ -10,7 +10,9 @@
 - 이벤트 링크: https://event-us.kr/gdgcampuskorea/event/100657
 - 잼미니 사용 가이드라인: https://bigbread-1129.notion.site/1d968dfea1ae8057b02fd85b94bbae35?pvs=4
 
-Developer: @daehyun-bigbread
+---
+
+Developer: [@Daehyun-Bigbread](https://github.com/Daehyun-Bigbread)
 
 
 
