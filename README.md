@@ -4,7 +4,7 @@
 
 ---
 
-- 04월 26일(토)에 진행된 Build with AI: GDG StartUP Lab에서 사용된 AI 페르소나 모델 MVP 검증 테스트 및 데이터 분석 도우미
+- 2025년 04월 26일(토)에 진행된 Build with AI: GDG StartUP Lab에서 사용된 AI 페르소나 모델 MVP 검증 테스트 및 데이터 분석 도우미
 페르소나 모델 "잼미니" 코랩 노트북에 대한 Repo 파일입니다.
 
 - 이벤트 링크: https://event-us.kr/gdgcampuskorea/event/100657
