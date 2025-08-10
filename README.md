@@ -8,7 +8,7 @@
 페르소나 모델 "잼미니" 코랩 노트북에 대한 Repo 파일입니다.
 
 - 이벤트 링크: https://event-us.kr/gdgcampuskorea/event/100657
-- 잼미니 사용 가이드라인: https://bigbread-1129.notion.site/GDG-StartUP-Lab-1e668dfea1ae80c28feae8bc98b53690?
+- 잼미니 사용 가이드라인: https://bigbread-1129.notion.site/GDG-StartUP-Lab-1e668dfea1ae80c28feae8bc98b53690
 
 ---
 
